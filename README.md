@@ -1,8 +1,7 @@
 # Mr. Akash
 
 **Software Developer**
-✉️ codeguyakash.me@gmail.com
-[GitHub](https://github.com/itsakssh)
+**✉️ codeguyakash.me@gmail.com**
 
 ---
 
